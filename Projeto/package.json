@@ -1,0 +1,11 @@
+{
+  "name": "projeto-vue-nuxt-simples",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev"
+  },
+  "dependencies": {
+    "nuxt": "^4.0.0"
+  }
+}
